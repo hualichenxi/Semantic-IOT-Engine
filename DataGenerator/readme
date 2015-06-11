@@ -1,0 +1,3 @@
+This is a simple data generator based on network socket.
+Server: RDF Streaming generator
+Client: Spark receiver 
